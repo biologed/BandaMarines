@@ -2493,12 +2493,12 @@ prepositional = "корпоративной кепке службы безопа
 gender = "female"
 
 ["marine's holster"]
-nominative = "кобура морского морпеха"
-genitive = "кобуры морского морпеха"
-dative = "кобуре морского морпеха"
-accusative = "кобуру морского морпеха"
-instrumental = "кобурой морского морпеха"
-prepositional = "кобуре морского морпеха"
+nominative = "кобура морпеха"
+genitive = "кобуры морпеха"
+dative = "кобуре морпеха"
+accusative = "кобуру морпеха"
+instrumental = "кобурой морпеха"
+prepositional = "кобуре морпеха"
 gender = "female"
 
 ["the veteran security advisor headset"]
@@ -7698,12 +7698,12 @@ prepositional = "четырёхцветной ручке"
 gender = "female"
 
 ["Fountain Pen"]
-nominative = "Перьевая ручка"
-genitive = "Перьевой ручки"
-dative = "Перьевой ручке"
-accusative = "Перьевую ручку"
-instrumental = "Перьевой ручкой"
-prepositional = "Перьевой ручке"
+nominative = "перьевая ручка"
+genitive = "перьевой ручки"
+dative = "перьевой ручке"
+accusative = "перьевую ручку"
+instrumental = "перьевой ручкой"
+prepositional = "перьевой ручке"
 gender = "female"
 
 ["fountain pen"]
