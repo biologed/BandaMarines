@@ -27963,51 +27963,51 @@ nominative = "ИЛС очки врача"
 nominative = "ИЛС очки охраны"
 
 ["M276 General Pistol Holster Rig"] # unique vendor name
-nominative = "пояс с кобурой для пистолета M276"
+nominative = "пояс M276 с кобурой для пистолета"
 
 ["M276 pattern general pistol holster rig"]
-nominative = "пояс с кобурой для пистолета M276"
-genitive = "пояса с кобурой для пистолета M276"
-dative = "поясу с кобурой для пистолета M276"
-accusative = "пояс с кобурой для пистолета M276"
-instrumental = "поясом с кобурой для пистолета M276"
-prepositional = "поясе с кобурой для пистолета M276"
+nominative = "пояс M276 с кобурой для пистолета"
+genitive = "пояса M276 с кобурой для пистолета"
+dative = "поясу M276 с кобурой для пистолета"
+accusative = "пояс M276 с кобурой для пистолета"
+instrumental = "поясом M276 с кобурой для пистолета"
+prepositional = "поясе M276 с кобурой для пистолета"
 gender = "male"
 
 ["M276 pattern SU-6 Smartpistol holster rig"]
-nominative = "пояс с кобурой для умного пистолета M276"
-genitive = "пояса с кобурой для умного пистолета M276"
-dative = "поясу с кобурой для умного пистолета M276"
-accusative = "пояс с кобурой для умного пистолета M276"
-instrumental = "поясом с кобурой для умного пистолета M276"
-prepositional = "поясе с кобурой для умного пистолета M276"
+nominative = "пояс M276 с кобурой для умного пистолета"
+genitive = "пояса M276 с кобурой для умного пистолета"
+dative = "поясу M276 с кобурой для умного пистолета"
+accusative = "пояс M276 с кобурой для умного пистолета"
+instrumental = "поясом M276 с кобурой для умного пистолета"
+prepositional = "поясе M276 с кобурой для умного пистолета"
 gender = "male"
 
 ["M276 Pattern General Revolver Holster Rig"] # unique vendor name
-nominative = "пояс с кобурой для револьвера M276"
+nominative = "пояс M276 с кобурой для револьвера"
 
 ["M276 General Revolver Holster Rig"] # unique vendor name
-nominative = "пояс с кобурой для револьвера M276"
+nominative = "пояс M276 с кобурой для револьвера"
 
 ["M276 pattern general revoler holster rig"]
-nominative = "пояс с кобурой для револьвера M276"
-genitive = "пояса с кобурой для револьвера M276"
-dative = "поясу с кобурой для револьвера M276"
-accusative = "пояс с кобурой для револьвера M276"
-instrumental = "поясом с кобурой для револьвера M276"
-prepositional = "поясе с кобурой для револьвера M276"
+nominative = "пояс M276 с кобурой для револьвера"
+genitive = "пояса M276 с кобурой для револьвера"
+dative = "поясу M276 с кобурой для револьвера"
+accusative = "пояс M276 с кобурой для револьвера"
+instrumental = "поясом M276 с кобурой для револьвера"
+prepositional = "поясе M276 с кобурой для револьвера"
 gender = "male"
 
 ["M276 Mortar Operator Belt"] # unique vendor name
-nominative = "пояс миномётчика M276"
+nominative = "пояс M276 для миномётчика"
 
 ["M276 pattern mortar operator belt"]
-nominative = "пояс миномётчика M276"
-genitive = "пояса миномётчика M276"
-dative = "поясу миномётчика M276"
-accusative = "пояс миномётчика M276"
-instrumental = "поясом миномётчика M276"
-prepositional = "поясе миномётчика M276"
+nominative = "пояс M276 для миномётчика"
+genitive = "пояса M276 для миномётчика"
+dative = "поясу M276 для миномётчика"
+accusative = "пояс M276 для миномётчика"
+instrumental = "поясом M276 для миномётчика"
+prepositional = "поясе M276 для миномётчика"
 gender = "male"
 
 ["M300 pattern .458 SOCOM loading rig"]
@@ -28020,22 +28020,22 @@ prepositional = "патронташе на пояс для дробовика"
 gender = "male"
 
 ["M276 pattern shotgun shell loading rig"]
-nominative = "патронташ на пояс для дробовика M276"
-genitive = "патронташа на пояс для дробовика M276"
-dative = "патронташу на пояс для дробовика M276"
-accusative = "патронташ на пояс для дробовика M276"
-instrumental = "патронташем на пояс для дробовика M276"
-prepositional = "патронташе на пояс для дробовика M276"
+nominative = "патронташ на пояс M276 для дробовика "
+genitive = "патронташа на пояс M276 для дробовика"
+dative = "патронташу на пояс M276 для дробовика"
+accusative = "патронташ на пояс M276 для дробовика"
+instrumental = "патронташем на пояс M276 для дробовика"
+prepositional = "патронташе на пояс M276 для дробовика"
 gender = "male"
 
 ["M276 Shotgun Shell Loading Rig"] # unique vendor name
-nominative = "патронташ на пояс для дробовика M276"
+nominative = "патронташ на пояс M276 для дробовика "
 
 ["Shotgun Shell Loading Rig"] # unique vendor name
-nominative = "патронташ на пояс для дробовика M276"
+nominative = "патронташ на пояс M276 для дробовика"
 
 ["M276 G8-A General Utility Pouch"] # unique vendor name
-nominative = "поясная разгрузка G8-A M276"
+nominative = "поясная разгрузка G8-A"
 
 ["G8-A general utility pouch"] # unique vendor name
 nominative = "поясная разгрузка G8-A"
@@ -28047,66 +28047,66 @@ prepositional = "поясной разгрузке G8-A"
 gender = "female"
 
 ["M276 Toolbelt Rig (Full)"] # unique vendor name
-nominative = "пояс для инструментов M276"
+nominative = "пояс M276 для инструментов"
 
 ["M276 pattern toolbelt rig"]
-nominative = "пояс для инструментов M276"
-genitive = "пояса для инструментов M276"
-dative = "поясу для инструментов M276"
-accusative = "пояс для инструментов M276"
-instrumental = "поясом для инструментов M276"
-prepositional = "поясе для инструментов M276"
+nominative = "пояс M276 для инструментов"
+genitive = "пояса M276 для инструментов"
+dative = "поясу M276 для инструментов"
+accusative = "пояс M276 для инструментов"
+instrumental = "поясом M276 для инструментов"
+prepositional = "поясе M276 для инструментов"
 gender = "male"
 
 ["M276 Knife Rig (Full)"] # unique vendor name
-nominative = "пояс для ножей M276"
+nominative = "пояс M276 для ножей"
 
 ["M276 Knife Rig"] # unique vendor name
-nominative = "пояс для ножей M276"
+nominative = "пояс M276 для ножей"
 
 ["M276 pattern knife rig"]
-nominative = "пояс для ножей M276"
-genitive = "пояса для ножей M276"
-dative = "поясу для ножей M276"
-accusative = "пояс для ножей M276"
-instrumental = "поясом для ножей M276"
-prepositional = "поясе для ножей M276"
+nominative = "пояс M276 для ножей"
+genitive = "пояса M276 для ножей"
+dative = "поясу M276 для ножей"
+accusative = "пояс M276 для ножей"
+instrumental = "поясом M276 для ножей"
+prepositional = "поясе M276 для ножей"
 gender = "male"
 
 ["military police belt"] # unique vendor name
 nominative = "пояс военной полиции"
 
 ["M276 pattern military police rig"]
-nominative = "пояс военной полиции M276"
-genitive = "пояса военной полиции M276"
-dative = "поясу военной полиции M276"
-accusative = "пояс военной полиции M276"
-instrumental = "поясом военной полиции M276"
-prepositional = "поясе военной полиции M276"
+nominative = "пояс M276 военной полиции"
+genitive = "пояса M276 военной полиции"
+dative = "поясу M276 военной полиции"
+accusative = "пояс M276 военной полиции"
+instrumental = "поясом M276 военной полиции"
+prepositional = "поясе M276 военной полиции"
 gender = "male"
 
 ["M276 M39 Holster Rig"] # unique vendor name
-nominative = "пояс с креплением для ПП M39 M276"
+nominative = "пояс M276 с креплением для ПП M39"
 
 ["M276 pattern M39 holster rig"]
-nominative = "пояс с креплением для ПП M39 M276"
-genitive = "пояса с креплением для ПП M39 M276"
-dative = "поясу с креплением для ПП M39 M276"
-accusative = "пояс с креплением для ПП M39 M276"
-instrumental = "поясом с креплением для ПП M39 M276"
-prepositional = "поясе с креплением для ПП M39 M276"
+nominative = "пояс M276 с креплением для ПП M39"
+genitive = "пояса M276 с креплением для ПП M39"
+dative = "поясу M276 с креплением для ПП M39"
+accusative = "пояс M276 с креплением для ПП M39"
+instrumental = "поясом M276 с креплением для ПП M39"
+prepositional = "поясе M276 с креплением для ПП M39"
 gender = "male"
 
 ["M276 M10 Holster Rig"] # unique vendor name
-nominative = "пояс с кобурой для пистолета M10 M276"
+nominative = "пояс M276 с кобурой для пистолета M10"
 
 ["M276 pattern M10 holster rig"]
-nominative = "пояс с кобурой для пистолета M10 M276"
-genitive = "пояса с кобурой для пистолета M10 M276"
-dative = "поясу с кобурой для пистолета M10 M276"
-accusative = "пояс с кобурой для пистолета M10 M276"
-instrumental = "поясом с кобурой для пистолета M10 M276"
-prepositional = "поясе с кобурой для пистолета M10 M276"
+nominative = "пояс M276 с кобурой для пистолета M10"
+genitive = "пояса M276 с кобурой для пистолета M10"
+dative = "поясу M276 с кобурой для пистолета M10"
+accusative = "пояс M276 с кобурой для пистолета M10"
+instrumental = "поясом M276 с кобурой для пистолета M10"
+prepositional = "поясе M276 с кобурой для пистолета M10"
 gender = "male"
 
 ["M277 pattern construction rig"]
@@ -28119,18 +28119,18 @@ prepositional = "поясной разгрузке строителя"
 gender = "female"
 
 ["M276 Medical Storage Rig"] # unique vendor name
-nominative = "поясная разгрузка санитара M276"
+nominative = "поясная разгрузка M276 для санитара"
 
 ["M276 Medical Storage Rig (Full)"] # unique vendor name
-nominative = "поясная разгрузка санитара M276"
+nominative = "поясная разгрузка M276 для санитара"
 
 ["M276 pattern medical storage rig"]
-nominative = "поясная разгрузка санитара M276"
-genitive = "поясной разгрузки санитара M276"
-dative = "поясной разгрузке санитара M276"
-accusative = "поясную разгрузку санитара M276"
-instrumental = "поясной разгрузкой санитара M276"
-prepositional = "поясной разгрузке санитара M276"
+nominative = "поясная разгрузка M276 для санитара"
+genitive = "поясной разгрузки M276 для санитара"
+dative = "поясной разгрузке M276 для санитара"
+accusative = "поясную разгрузку M276 для санитара"
+instrumental = "поясной разгрузкой M276 для санитара"
+prepositional = "поясной разгрузке M276 для санитара"
 gender = "female"
 
 ["M804 heavygunner storage rig"]
@@ -28143,33 +28143,33 @@ prepositional = "поясной разгрузке пулемётчика"
 gender = "female"
 
 ["M276 Medical Lifesaver Rig"] # unique vendor name
-nominative = "спасательная сумка санитара M276"
+nominative = "спасательный пояс M276 санитара"
 
 ["M276 Lifesaver Bag (Full)"] # unique vendor name
-nominative = "спасательная сумка санитара M276"
+nominative = "спасательный пояс M276 санитара"
 
 ["M276 Lifesaver Bag"] # unique vendor name
-nominative = "спасательная сумка санитара M276"
+nominative = "спасательный пояс M276 санитара"
 
 ["M276 pattern lifesaver bag"]
-nominative = "спасательная сумка санитара M276"
-genitive = "спасательной сумки санитара M276"
-dative = "спасательной сумке санитара M276"
-accusative = "спасательную сумку санитара M276"
-instrumental = "спасательной сумкой санитара M276"
-prepositional = "спасательной сумке санитара M276"
-gender = "female"
+nominative = "спасательный пояс M276 санитара"
+genitive = "спасательного пояса M276 санитара"
+dative = "спасательному поясу M276 санитару"
+accusative = "спасательный пояс M276 санитара"
+instrumental = "спасательным поясом M276 санитаром"
+prepositional = "спасательном поясе M276 санитаре"
+gender = "male"
 
 ["M276 Ammo Load Rig"] # unique vendor name
-nominative = "пояс для магазинов M276"
+nominative = "пояс M276 для магазинов"
 
 ["M276 pattern ammo load rig"]
-nominative = "пояс для магазинов M276"
-genitive = "пояса для магазинов M276"
-dative = "поясу для магазинов M276"
-accusative = "пояс для магазинов M276"
-instrumental = "поясом для магазинов M276"
-prepositional = "поясе для магазинов M276"
+nominative = "пояс M276 для магазинов"
+genitive = "пояса M276 для магазинов"
+dative = "поясу M276 для магазинов"
+accusative = "пояс M276 для магазинов"
+instrumental = "поясом M276 для магазинов"
+prepositional = "поясе M276 для магазинов"
 gender = "male"
 
 ["ammo load rig"]
@@ -28182,60 +28182,60 @@ prepositional = "поясе для магазинов"
 gender = "male"
 
 ["M276 Combat Toolbelt Rig (Full)"] # unique vendor name
-nominative = "пояс с кобурой для инструментов M276"
+nominative = "пояс M276 с кобурой для инструментов"
 
 ["M276 Holster Toolrig (Full)"] # unique vendor name
-nominative = "пояс с кобурой для инструментов M276"
+nominative = "пояс M276 с кобурой для инструментов"
 
 ["M276 Holster Toolrig"] # unique vendor name
-nominative = "пояс с кобурой для инструментов M276"
+nominative = "пояс M276 с кобурой для инструментов"
 
 ["M276 pattern combat toolbelt rig"]
-nominative = "пояс с кобурой для инструментов M276"
-genitive = "пояса с кобурой для инструментов M276"
-dative = "поясу с кобурой для инструментов M276"
-accusative = "пояс с кобурой для инструментов M276"
-instrumental = "поясом с кобурой для инструментов M276"
-prepositional = "поясе с кобурой для инструментов M276"
+nominative = "пояс M276 с кобурой для инструментов"
+genitive = "пояса M276 с кобурой для инструментов"
+dative = "поясу M276 с кобурой для инструментов"
+accusative = "пояс M276 с кобурой для инструментов"
+instrumental = "поясом M276 с кобурой для инструментов"
+prepositional = "поясе M276 с кобурой для инструментов"
 gender = "male"
 
 ["M276 M82F Holster Rig"] # unique vendor name
-nominative = "пояс с кобурой для ракетницы M82F M276"
+nominative = "пояс M276 с кобурой для ракетницы M82F"
 
 ["M276 Pattern M82F Holster Rig"] # unique vendor name
-nominative = "пояс с кобурой для ракетницы M82F M276"
+nominative = "пояс M276 с кобурой для ракетницы M82F"
 
 ["M276 pattern M82F flare gun holster rig"]
-nominative = "пояс с кобурой для ракетницы M82F M276"
-genitive = "пояса с кобурой для ракетницы M82F M276"
-dative = "поясу с кобурой для ракетницы M82F M276"
-accusative = "пояс с кобурой для ракетницы M82F M276"
-instrumental = "поясом с кобурой для ракетницы M82F M276"
-prepositional = "поясе с кобурой для ракетницы M82F M276"
+nominative = "пояс M276 с кобурой для ракетницы M82F"
+genitive = "пояса M276 с кобурой для ракетницы M82F"
+dative = "поясу M276 с кобурой для ракетницы M82F"
+accusative = "пояс M276 с кобурой для ракетницы M82F"
+instrumental = "поясом M276 с кобурой для ракетницы M82F"
+prepositional = "поясе M276 с кобурой для ракетницы M82F"
 gender = "male"
 
 ["M276 M40 Grenade Rig"] # unique vendor name
-nominative = "пояс для гранат M40 M276"
+nominative = "пояс M276 для гранат M40"
 
 ["M276 M40 Grenade Rig (Empty)"] # unique vendor name
-nominative = "пояс для гранат M40 M276"
+nominative = "пояс M276 для гранат M40"
 
 ["M276 pattern M40 Grenade rig"]
-nominative = "пояс для гранат M40 M276"
-genitive = "пояса для гранат M40 M276"
-dative = "поясу для гранат M40 M276"
-accusative = "пояс для гранат M40 M276"
-instrumental = "поясом для гранат M40 M276"
-prepositional = "поясе для гранат M40 M276"
+nominative = "пояс M276 для гранат M40"
+genitive = "пояса M276 для гранат M40"
+dative = "поясу M276 для гранат M40"
+accusative = "пояс M276 для гранат M40"
+instrumental = "поясом M276 для гранат M40"
+prepositional = "поясе M276 для гранат M40"
 gender = "male"
 
 ["M276 pattern M40 Grenade rig Mk. II"]
-nominative = "пояс для гранат M40A2 M276"
-genitive = "пояса для гранат M40A2 M276"
-dative = "поясу для гранат M40A2 M276"
-accusative = "пояс для гранат M40A2 M276"
-instrumental = "поясом для гранат M40A2 M276"
-prepositional = "поясе для гранат M40A2 M276"
+nominative = "пояс M276 для гранат M40A2"
+genitive = "пояса M276 для гранат M40A2"
+dative = "поясу M276 для гранат M40A2"
+accusative = "пояс M276 для гранат M40A2"
+instrumental = "поясом M276 для гранат M40A2"
+prepositional = "поясе M276 для гранат M40A2"
 gender = "male"
 
 ["medium general pouch"]
