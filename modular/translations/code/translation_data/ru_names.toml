@@ -10367,12 +10367,12 @@ prepositional = "анализаторе травм"
 gender = "male"
 
 ["ointment"]
-nominative = "мазь"
-genitive = "мази"
-dative = "мазе"
-accusative = "мазь"
-instrumental = "мазью"
-prepositional = "мазе"
+nominative = "противоожоговая мазь"
+genitive = "противоожоговой мази"
+dative = "противоожоговой мази"
+accusative = "противоожоговую мазь"
+instrumental = "противоожоговой мазью"
+prepositional = "противоожоговой мази"
 gender = "female"
 
 ["bone gel"]
@@ -31688,6 +31688,274 @@ accusative = "магазин для XM43E1 (10x99мм)"
 instrumental = "магазином для XM43E1 (10x99мм)"
 prepositional = "магазине для XM43E1 (10x99мм)"
 gender = "male"
+
+["Pressurized Reagent Canister Pouch (Bicaridine)"] # unique venodr name
+nominative = "подсумок с баком для реагентов (Бикаридин)"
+
+["Pressurized Reagent Canister Pouch (Kelotane)"] # unique venodr name
+nominative = "подсумок с баком для реагентов (Келотан)"
+
+["Pressurized Reagent Canister Pouch (Revival Mix - Tricordrazine)"] # unique venodr name
+nominative = "подсумок с баком для реагентов (Эпинефрин, Инапровалин, Трикордразин)"
+
+["Pressurized Reagent Canister Pouch (Revival Mix - Peridaxon)"] # unique venodr name
+nominative = "подсумок с баком для реагентов (Эпинефрин, Инапровалин, Перидаксон)"
+
+["Pressurized Reagent Canister Pouch (Tricordrazine)"] # unique venodr name
+nominative = "подсумок с баком для реагентов (Трикордразин)"
+
+["Pressurized Reagent Canister Pouch (EMPTY)"] # unique venodr name
+nominative = "подсумок с баком для реагентов (Пустой)"
+
+["Pressurized Reagent Canister Pouch"]
+nominative = "подсумок с капсулой для реагентов"
+genitive = "подсумка с капсулой для реагентов"
+dative = "подсумку с капсулой для реагентов"
+accusative = "подсумок с капсулой для реагентов"
+instrumental = "подсумком с капсулой для реагентов"
+prepositional = "подсумке с капсулой для реагентов"
+gender = "male"
+
+["Pressurized canister"]
+nominative = "капсула для реагентов"
+genitive = "капсулы для реагентов"
+dative = "капсуле для реагентов"
+accusative = "капсулу для реагентов"
+instrumental = "капсулой для реагентов"
+prepositional = "капсуле для реагентов"
+gender = "female"
+
+["Medic Autoinjector (M-M)"]
+nominative = "средний медицинский инжектор (15x6)"
+genitive = "среднего медицинского инжектора (15x6)"
+dative = "среднему медицинскому инжектору (15x6)"
+accusative = "средний медицинский инжектор (15x6)"
+instrumental = "средним медицинским инжектором (15x6)"
+prepositional = "среднем медицинском инжекторе (15x6)"
+gender = "male"
+
+["pressurized chemical dispenser"]
+nominative = "раздатчик медицинских реагентов"
+genitive = "раздатчика медицинских реагентов"
+dative = "раздатчику медицинских реагентов"
+accusative = "раздатчик медицинских реагентов"
+instrumental = "раздатчиком медицинских реагентов"
+prepositional = "раздатчике медицинских реагентов"
+gender = "male"
+
+["Epinephrine"]
+nominative = "Эпинефрин"
+genitive = "Эпинефрина"
+dative = "Эпинефрину"
+accusative = "Эпинефрин"
+instrumental = "Эпинефрином"
+prepositional = "Эпинефрине"
+gender = "male"
+
+["Dylovene"]
+nominative = "Диловен"
+genitive = "Диловена"
+dative = "Диловену"
+accusative = "Диловен"
+instrumental = "Диловеном"
+prepositional = "Диловене"
+gender = "male"
+
+["Bicaridine"]
+nominative = "Бикаридин"
+genitive = "Бикаридина"
+dative = "Бикаридину"
+accusative = "Бикаридин"
+instrumental = "Бикаридином"
+prepositional = "Бикаридине"
+gender = "male"
+
+["Dexalin"]
+nominative = "Дексалин"
+genitive = "Дексалина"
+dative = "Дексалину"
+accusative = "Дексалин"
+instrumental = "Дексалином"
+prepositional = "Дексалине"
+gender = "male"
+
+["Inaprovaline"]
+nominative = "Инапровалин"
+genitive = "Инапровалина"
+dative = "Инапровалину"
+accusative = "Инапровалин"
+instrumental = "Инапровалином"
+prepositional = "Инапровалине"
+gender = "male"
+
+["Kelotane"]
+nominative = "Келотан"
+genitive = "Келотана"
+dative = "Келотану"
+accusative = "Келотан"
+instrumental = "Келотаном"
+prepositional = "Келотане"
+gender = "male"
+
+["Peridaxon"]
+nominative = "Перидаксон"
+genitive = "Перидаксона"
+dative = "Перидаксону"
+accusative = "Перидаксон"
+instrumental = "Перидаксоном"
+prepositional = "Перидаксоне"
+gender = "male"
+
+["Tricordrazine"]
+nominative = "Трикордразин"
+genitive = "Трикордразина"
+dative = "Трикордразину"
+accusative = "Трикордразин"
+instrumental = "Трикордразином"
+prepositional = "Трикордразине"
+gender = "male"
+
+["Tramadol"]
+nominative = "Тримадол"
+genitive = "Тримадола"
+dative = "Тримадолу"
+accusative = "Тримадол"
+instrumental = "Тримадолом"
+prepositional = "Тримадоле"
+gender = "male"
+
+["Vial Pouch (Full)"] # unique venodr name
+nominative = "подсумок для пробирок"
+
+["vial pouch"]
+nominative = "подсумок для пробирок"
+genitive = "подсумка для пробирок"
+dative = "подсумку для пробирок"
+accusative = "подсумок для пробирок"
+instrumental = "подсумком для пробирок"
+prepositional = "подсумке для пробирок"
+gender = "male"
+
+["vial"]
+nominative = "пробирка"
+genitive = "пробирки"
+dative = "пробирке"
+accusative = "пробирку"
+instrumental = "пробиркой"
+prepositional = "пробирке"
+gender = "female"
+
+["Advanced Firstaid Kit"] # unique venodr name
+nominative = "универсальная аптечка первой помощи"
+
+["advanced first-aid kit"]
+nominative = "аптечка первой помощи"
+genitive = "аптечки первой помощи"
+dative = "аптечке первой помощи"
+accusative = "аптечку первой помощи"
+instrumental = "аптечкой первой помощи"
+prepositional = "аптечке первой помощи"
+gender = "female"
+
+["medical splints"]
+nominative = "медицинские шины"
+genitive = "медицинских шин"
+dative = "медицинским шинам"
+accusative = "медицинские шины"
+instrumental = "медицинскими шинами"
+prepositional = "медицинских шинах"
+gender = "plural"
+
+["roll of gauze"]
+nominative = "бинты"
+genitive = "бинтов"
+dative = "бинтам"
+accusative = "бинты"
+instrumental = "бинтами"
+prepositional = "бинтах"
+gender = "plural"
+
+["inaprovaline autoinjector"]
+nominative = "инжектор с Инопровалином"
+genitive = "инжектора с Инопровалином"
+dative = "инжектору с Инопровалином"
+accusative = "инжектор с Инопровалином"
+instrumental = "инжектором с Инопровалином"
+prepositional = "инжекторе с Инопровалином"
+gender = "male"
+
+["tricordrazine autoinjector"]
+nominative = "инжектор с Трикордразином"
+genitive = "инжектора с Трикордразином"
+dative = "инжектору с Трикордразином"
+accusative = "инжектор с Трикордразином"
+instrumental = "инжектором с Трикордразином"
+prepositional = "инжекторе с Трикордразином"
+gender = "male"
+
+["pain-stop autoinjector"]
+nominative = "одноразовый инжектор с Тримадолом"
+genitive = "одноразового инжектора с Тримадолом"
+dative = "одноразовому инжектору с Тримадолом"
+accusative = "одноразовый инжектор с Тримадолом"
+instrumental = "одноразовым инжектором с Тримадолом"
+prepositional = "одноразовом инжекторе с Тримадолом"
+gender = "male"
+
+["pain-stop autoinjector expended"]
+nominative = "одноразовый инжектор с Тримадолом (Пустой)"
+genitive = "одноразового инжектора с Тримадолом (Пустой)"
+dative = "одноразовому инжектору с Тримадолом (Пустой)"
+accusative = "одноразовый инжектор с Тримадолом (Пустой)"
+instrumental = "одноразовым инжектором с Тримадолом (Пустой)"
+prepositional = "одноразовом инжекторе с Тримадолом (Пустой)"
+gender = "male"
+
+["HF2 health analyzer"]
+nominative = "медицинский анализатор HF2"
+genitive = "медицинского анализатора HF2"
+dative = "медицинскому анализатору HF2"
+accusative = "медицинский анализатор HF2"
+instrumental = "медицинским анализатором HF2"
+prepositional = "медицинском анализаторе HF2"
+gender = "male"
+
+["first-aid autoinjector"]
+nominative = "одноразовый инжектор с Трикордразином"
+genitive = "одноразового инжектора с Трикордразином"
+dative = "одноразовому инжектору с Трикордразином"
+accusative = "одноразовый инжектор с Трикордразином"
+instrumental = "одноразовым инжектором с Трикордразином"
+prepositional = "одноразовом инжекторе с Трикордразином"
+gender = "male"
+
+["first-aid autoinjector expended"]
+nominative = "одноразовый инжектор с Трикордразином (Пустой)"
+genitive = "одноразового инжектора с Трикордразином (Пустой)"
+dative = "одноразовому инжектору с Трикордразином (Пустой)"
+accusative = "одноразовый инжектор с Трикордразином (Пустой)"
+instrumental = "одноразовым инжектором с Трикордразином (Пустой)"
+prepositional = "одноразовом инжекторе с Трикордразином (Пустой)"
+gender = "male"
+
+["trauma kit"]
+nominative = "противотравматический набор"
+genitive = "противотравматического набора"
+dative = "противотравматическому набору"
+accusative = "противотравматический набор"
+instrumental = "противотравматическим набором"
+prepositional = "противотравматическом наборе"
+gender = "male"
+
+["burn kit"]
+nominative = "противоожоговый набор"
+genitive = "противоожогового набора"
+dative = "противоожоговому набору"
+accusative = "противоожоговый набор"
+instrumental = "противоожоговым набором"
+prepositional = "противоожоговом наборе"
+gender = "male"
+
 
 
 
